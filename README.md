@@ -7,11 +7,14 @@ The drone system is composed of the camera, the companion computer (jetson nano)
 Code and simulation are given
 
 ## Prerequisites for simulation
+You should have basic understanding of these
 - **ROS Noetic (Ubuntu 20.04)**: Robot Operating System (ROS or ros) is an [open-source](https://en.wikipedia.org/wiki/Open-source_software) [robotics middleware](https://en.wikipedia.org/wiki/Robotics_middleware) suite. Although ROS is not an operating system (OS) but a set of software frameworks for robot software development. ROS Noetic Ninjemys is primarily targeted at the Ubuntu 20.04 (Focal) release, though other systems are supported to varying degrees. Note that you should install ROS Noetic Full Desktop version.
 
 - **Ardupilot**- The ArduPilot software suite consists of navigation software (typically referred to as firmware when it is compiled to binary form for microcontroller hardware targets) running on the vehicle (either Copter, Plane, Rover, AntennaTracker, or Sub), along with ground station controlling software including Mission Planner, APM Planner, QGroundControl, MavProxy, Tower and others.
 
 - You also need to install plugins which you can refer from [ardupilot-installation](https://github.com/Bhaveshmeghwal21/AMC_Summer_Camp-2024/blob/main/Intermediate/ROS/Ardupilot-installation.md)
+- OpenCV Library
+
 
 ## Running the simulation
 ### Gazebo-ROS
