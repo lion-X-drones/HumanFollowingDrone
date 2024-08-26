@@ -47,7 +47,7 @@ sim_vehicle.py -f gazebo-iris --console --map
 ```bash
 cd ~/ardupilot_ws/src/launch && roslaunch apm.launch
 ```
-### Run the script
+### Run the [script](https://github.com/lion-X-drones/HumanFollowingDrone/blob/main/Script/human_follow.py)
 ```bash
 python3 human_follow.py
 ```
