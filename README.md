@@ -49,8 +49,7 @@ cd ~/ardupilot_ws/src/launch && roslaunch apm.launch
 python3 human_follow.py
 ```
 ## Result
-It should be like this 
-![](https://github.com/lion-X-drones/HumanFollowingDrone/blob/main/HumanFollow.mp4)
+It should be like this [](https://github.com/lion-X-drones/HumanFollowingDrone/blob/main/HumanFollow.mp4)
 
 
 
